@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "dogrula",
+  "compatibility_date": "2026-05-22",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "project"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
